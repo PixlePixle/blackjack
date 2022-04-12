@@ -1,2 +1,2 @@
 # blackjack
- A simple cmd line based blackjack game
+ A simple Java non gui based blackjack game.
